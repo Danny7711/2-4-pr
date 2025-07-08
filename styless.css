@@ -1,0 +1,11 @@
+p {
+    color: blue;
+}
+
+.bold-item {
+    font-weight: bold;
+}
+
+#main-title {
+    color: red;
+}
