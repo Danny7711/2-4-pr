@@ -1,0 +1,22 @@
+.stroka {
+  display: inline;
+  background-color: lightblue;
+}
+
+.blok-kartinka {
+  display: block;
+  margin: 10px 0;
+}
+
+.konteiner {
+  display: block;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.konteiner p,
+.konteiner img,
+.konteiner a {
+  display: block;
+  margin-bottom: 10px;
+}
